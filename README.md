@@ -155,15 +155,4 @@ Found a bug or have an idea to improve? PRs are welcome!
 * Language support (Hindi, Tamil, etc.)
 * Mobile-first UI
 * Decentralized loan eligibility prediction
-
-```
-
----
-
-Let me know if you want:
-- Screenshots or demo links added  
-- GitHub badges for license, Streamlit, etc.  
-- `live app` badge if you deploy this on Streamlit Cloud  
-
-Happy coding! 🚀
 ```
